@@ -47,5 +47,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com//Bossthanapat"><img
+     href="http://www.github.com/Bossthanapat"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=/Bossthanapat&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com//Bossthanapat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Bossthanapat&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
